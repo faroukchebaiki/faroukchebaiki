@@ -41,6 +41,6 @@
 [twitter]: https://twitter.com/farouk7484
 [instagram]: https://instagram.com/f4r0uk
 [linkedin]: https://linkedin.com/in/farouk7
-
-[sublimetext]: https://www.sublimetext.com
 [w3schools]: w3schools.com
+[sublimetext]: https://www.sublimetext.com
+
