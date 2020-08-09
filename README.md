@@ -7,6 +7,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Farouk | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="farouk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Farouk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="farouk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -38,6 +39,7 @@
 <img align="left" alt="farouk Github Stats" src="https://github-readme-stats.vercel.app/api?username=farouk7484&theme=blue-green&show_icons=true" />
 
 [facebook]: https://facebook.com/farouk7484
+[gmail]: mailto:farouk.chebaiki@gmail.com
 [twitter]: https://twitter.com/farouk7484
 [instagram]: https://instagram.com/f4r0uk
 [linkedin]: https://linkedin.com/in/farouk7
