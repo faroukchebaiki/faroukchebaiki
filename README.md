@@ -37,6 +37,7 @@
 ---
 
 <img align="left" alt="farouk Github Stats" src="https://github-readme-stats.vercel.app/api?username=farouk7484&theme=blue-green&show_icons=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faroukchebaiki)](https://github.com/faroukchebaiki/github-readme-stats)
 
 [facebook]: https://facebook.com/farouk7484
 [gmail]: mailto:farouk.chebaiki@gmail.com
