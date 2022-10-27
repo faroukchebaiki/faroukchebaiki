@@ -28,15 +28,11 @@
 
 [<img align="left" alt="Farouk | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="farouk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Farouk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="farouk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="f4rouk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 ---
-[facebook]: https://facebook.com/farouk7484
 [gmail]: mailto:farouk.chebaiki@gmail.com
 [twitter]: https://twitter.com/faroukchebaiki
-[instagram]: https://instagram.com/f4r0uk
 [linkedin]: https://linkedin.com/in/farouk7
 [w3schools]: w3schools.com
 [sublimetext]: https://www.sublimetext.com
