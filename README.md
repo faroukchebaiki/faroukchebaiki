@@ -1,9 +1,9 @@
 ### Hi there, I'm Farouk Chebaiki 👋
 
 ## I'm a Front & Back End  Developer, and Also a Process Engineer!!!
-- 🌱 I’m currently learning React + Some Other Things
+- 🌱 I’m currently learning React + building my portfolio
 - 👯 I’m looking to collaborate with other Developers in my in my future projects
-- 🥅 2022 Goals: To Create My First e-commerce Website project
+- 🥅 2023 Goals: To get hired as full stack devloper
 <br />
 
 ### Languages and Tools:
@@ -24,7 +24,7 @@
 
 <br />
 
-### Connect with me:
+### Contact with me:
 
 [<img align="left" alt="Farouk | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="farouk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
