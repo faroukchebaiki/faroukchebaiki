@@ -8,21 +8,24 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
-[<img align="left" alt="Sublime text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][sublimetext]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][w3schools]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-[<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/reduxsaga" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/sublimetext" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
 
 <br />
+
 
 ### Contact with me:
 
@@ -34,6 +37,3 @@
 [gmail]: mailto:farouk.chebaiki@gmail.com
 [twitter]: https://twitter.com/faroukchebaiki
 [linkedin]: https://linkedin.com/in/farouk7
-[w3schools]: w3schools.com
-[sublimetext]: https://www.sublimetext.com
-
