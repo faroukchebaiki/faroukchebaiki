@@ -8,7 +8,7 @@
 
 ## Languages and Tools:
 
-> Front End :
+> ### Front End 
 
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/" />
@@ -19,23 +19,35 @@
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sass" />
 
 <br />
+<br />
+<br />
 
-> Back End :
+> ### Back End 
 
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/express" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
+
+<br />
+<br />
+<br />
+
+> ### Tools 
+
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github/black" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal/black" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sublimetext" />
 <img align="left"  height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
 
 <br />
+<br />
+<br />
 
 
-### Contact with me:
+## Contact with me:
 
 [<img align="left" alt="Farouk | Gmail"  height="32" width="32" src="https://cdn.simpleicons.org/gmail" />][gmail]
 [<img align="left" alt="farouk | LinkedIn"  height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
