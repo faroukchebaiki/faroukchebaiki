@@ -8,32 +8,32 @@
 
 ### Languages and Tools:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/reduxsaga" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sublimetext" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/redux" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/reduxsaga" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sass" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sublimetext" />
+<img align="left"  height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
 
 <br />
 
-
+---
 ### Contact with me:
 
-[<img align="left" alt="Farouk | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="farouk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="farouk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Farouk | Gmail"  height="32" width="32" src="https://cdn.simpleicons.org/gmail" />][gmail]
+[<img align="left" alt="farouk | LinkedIn"  height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="farouk | Twitter"  height="32" width="32" src="https://cdn.simpleicons.org/twitter" />][twitter]
 <br />
----
+
 [gmail]: mailto:farouk.chebaiki@gmail.com
 [twitter]: https://twitter.com/faroukchebaiki
 [linkedin]: https://linkedin.com/in/farouk7
