@@ -6,18 +6,26 @@
 - 🥅 2023 Goals: To get hired as full stack devloper
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
+
+> Front End :
 
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/redux" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/reduxsaga" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sass" />
+
+<br />
+
+> Back End :
+
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal" />
@@ -26,7 +34,7 @@
 
 <br />
 
----
+
 ### Contact with me:
 
 [<img align="left" alt="Farouk | Gmail"  height="32" width="32" src="https://cdn.simpleicons.org/gmail" />][gmail]
