@@ -10,13 +10,13 @@
 
 > ### Front End 
 
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/redux" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/reduxsaga" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sass" />
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/redux" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/reduxsaga" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sass" />][portfolio]
 
 <br />
 <br />
@@ -24,11 +24,11 @@
 
 > ### Back End 
 
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/express" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/express" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/firebase" />][portfolio]
 
 <br />
 <br />
@@ -36,11 +36,11 @@
 
 > ### Tools 
 
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github/black" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal/black" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sublimetext" />
-<img align="left"  height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github/black" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal/black" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sublimetext" />][portfolio]
+[<img align="left"  height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />][portfolio]
 
 <br />
 <br />
@@ -57,3 +57,4 @@
 [gmail]: mailto:farouk.chebaiki@gmail.com
 [twitter]: https://twitter.com/faroukchebaiki
 [linkedin]: https://linkedin.com/in/farouk7
+[portfolio]: https://faroukchebaiki.live/
