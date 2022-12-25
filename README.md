@@ -39,7 +39,7 @@
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git" />][portfolio]
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github/black" />][portfolio]
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal/black" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sublimetext" />][portfolio]
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postman" />][portfolio]
 [<img align="left"  height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />][portfolio]
 
 <br />
@@ -57,4 +57,4 @@
 [gmail]: mailto:farouk.chebaiki@gmail.com
 [twitter]: https://twitter.com/faroukchebaiki
 [linkedin]: https://linkedin.com/in/farouk7
-[portfolio]: https://faroukchebaiki.live/
+[portfolio]: https://faroukchebaiki.social/
