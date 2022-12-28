@@ -1,4 +1,4 @@
-### Hi there, I'm Farouk Chebaiki 👋
+## Hi there, I'm Farouk Chebaiki 👋
 
 ## I'm a Front & Back End  Developer, and Also a Process Engineer!!!
 - 🌱 I’m currently learning React + building my portfolio
