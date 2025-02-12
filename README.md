@@ -1,60 +1,55 @@
-### Hi there, I'm Farouk Chebaiki 👋
+### Hi there, I'm Farouk Chebaiki! 👋
 
-## I'm a Front & Back End  Developer, and Also a Process Engineer!!!
-- 🌱 I’m currently learning React + building my portfolio
-- 👯 I’m looking to collaborate with other Developers in my in my future projects
-- 🥅 2023 Goals: To get hired as full stack devloper
-<br />
+## Full Stack Developer
 
-## Languages and Tools:
+I'm passionate about building efficient, scalable applications and continuously improving my skills. Currently, I'm focused on React and Node.js while learning AI.
 
-> ### Front End 
+### 🚀 About Me:
+- 🌱 **Currently Learning:** AI, React, Next.js, and backend optimization.
+- 👯 **Looking to Collaborate:** Open-source projects, startups, and exciting development opportunities.
+- 🎯 **2025 Goals:** Land a backend developer role and work on AI-driven applications.
 
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/redux" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/reduxsaga" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sass" />][portfolio]
+---
 
-<br />
-<br />
-<br />
+## 🛠️ Tech Stack & Tools
 
-> ### Back End 
+### 🔹 Frontend:
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react" />](https://reactjs.org/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/redux" />](https://redux.js.org/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sass" />](https://sass-lang.com/)
 
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/express" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/firebase" />][portfolio]
+<br /><br />
 
-<br />
-<br />
-<br />
+### 🔹 Backend:
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />](https://nodejs.org/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/express/FFF" />](https://expressjs.com/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />](https://www.postgresql.org/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />](https://www.mongodb.com/)
+[<img align="left" height="32" width="32" src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" />](https://firebase.google.com/)
 
-> ### Tools 
+<br /><br />
 
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github/black" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal/black" />][portfolio]
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postman" />][portfolio]
-[<img align="left"  height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />][portfolio]
-
-<br />
-<br />
-<br />
+### 🔹 Tools & Platforms:
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git" />](https://git-scm.com/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/github/FFF" />](https://github.com/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postman" />](https://www.postman.com/)
+[<img align="left" height="32" width="32" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" />](https://code.visualstudio.com/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal/FFF" />](https://help.gnome.org/users/gnome-terminal/)
 
 
-## Contact with me:
+<br /><br />
 
-[<img align="left" alt="Farouk | Gmail"  height="32" width="32" src="https://cdn.simpleicons.org/gmail" />][gmail]
-[<img align="left" alt="farouk | LinkedIn"  height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="left" alt="farouk | Twitter"  height="32" width="32" src="https://cdn.simpleicons.org/twitter" />][twitter]
-<br />
+---
 
-[gmail]: mailto:farouk.chebaiki@gmail.com
-[twitter]: https://twitter.com/faroukchebaiki
-[linkedin]: https://linkedin.com/in/farouk7
-[portfolio]: https://faroukchebaiki.social/
+## 📬 Connect with Me:
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gmail" />](mailto:farouk.chebaiki@gmail.com)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://linkedin.com/in/farouk7)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/x/FFF" />](https://x.com/faroukchebaiki)
+
+<br /><br />
+
+📌 Check out my portfolio: **[faroukchebaiki.vercel.app](https://faroukchebaiki.vercel.app/)**
+
