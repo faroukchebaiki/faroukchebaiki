@@ -2,10 +2,10 @@
 
 ## Full Stack Developer
 
-I'm passionate about building efficient, scalable applications and continuously improving my skills. Currently, I'm focused on React and Node.js while learning AI.
+I'm passionate about building efficient, scalable applications and continuously improving my skills. Currently, I'm focused on next.js and Rust while learning AI.
 
 ### 🚀 About Me:
-- 🌱 **Currently Learning:** AI, React, Next.js, and backend optimization.
+- 🌱 **Currently Learning:** AI automation, Cloud , Next.js, and backend optimization.
 - 👯 **Looking to Collaborate:** Open-source projects, startups, and exciting development opportunities.
 - 🎯 **2025 Goals:** Land a backend developer role and work on AI-driven applications.
 
@@ -51,5 +51,5 @@ I'm passionate about building efficient, scalable applications and continuously 
 
 <br /><br />
 
-📌 Check out my portfolio: **[faroukchebaiki.vercel.app](https://faroukchebaiki.vercel.app/)**
+📌 Check out my portfolio: **[farouk.uk](https://farouk.uk)**
 
