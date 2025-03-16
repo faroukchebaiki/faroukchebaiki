@@ -1,25 +1,25 @@
 ### Hi there, I'm Farouk Chebaiki! 👋
 
-## Full Stack Developer
+## 🚀 Full Stack Developer | System Security & AI Enthusiast  
 
-I'm passionate about building efficient, scalable applications and continuously improving my skills. Currently, I'm focused on next.js and Rust while learning AI.
+I specialize in **building scalable, high-performance web applications** with a focus on **clean architecture, security, and efficiency**. My expertise spans **Next.js, React, Node.js, and containerization** while also exploring **AI automation and backend optimization**.  
 
-### 🚀 About Me:
-- 🌱 **Currently Learning:** AI automation, Cloud , Next.js, and backend optimization.
-- 👯 **Looking to Collaborate:** Open-source projects, startups, and exciting development opportunities.
-- 🎯 **2025 Goals:** Land a backend developer role and work on AI-driven applications.
+### 🔹 About Me:
+- 🌱 **Currently Learning:** AI-driven automation, cloud infrastructure, and advanced backend scaling.
+- 🔧 **Tech Focus:** Next.js, system security, containerization (Podman), Firebase, and Payload CMS.
+- 🎯 **2025 Goals:** Secure a backend developer role and build AI-driven applications.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools  
 
 ### 🔹 Frontend:
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react" />](https://reactjs.org/)
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/redux" />](https://redux.js.org/)
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sass" />](https://sass-lang.com/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" />](https://nextjs.org/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />](https://tailwindcss.com/)
+[<img align="left" height="32" width="32" src="https://mui.com/static/logo.png" />](https://mui.com/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/shadcnui" />](https://ui.shadcn.com/)
 
 <br /><br />
 
@@ -28,7 +28,18 @@ I'm passionate about building efficient, scalable applications and continuously 
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/express/FFF" />](https://expressjs.com/)
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />](https://www.postgresql.org/)
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />](https://www.mongodb.com/)
-[<img align="left" height="32" width="32" src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" />](https://firebase.google.com/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/redis" />](https://redis.io/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/firebase" />](https://firebase.google.com/)
+
+<br /><br />
+
+### 🔹 DevOps & Security:
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linux" />](https://www.linux.org/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />](https://ubuntu.com/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/docker" />](https://www.docker.com/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/podman" />](https://podman.io/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/cloudflare" />](https://www.cloudflare.com/)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nginx" />](https://nginx.org/)
 
 <br /><br />
 
@@ -38,7 +49,6 @@ I'm passionate about building efficient, scalable applications and continuously 
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postman" />](https://www.postman.com/)
 [<img align="left" height="32" width="32" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" />](https://code.visualstudio.com/)
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnometerminal/FFF" />](https://help.gnome.org/users/gnome-terminal/)
-
 
 <br /><br />
 
@@ -52,4 +62,3 @@ I'm passionate about building efficient, scalable applications and continuously 
 <br /><br />
 
 📌 Check out my portfolio: **[farouk.uk](https://farouk.uk)**
-
